@@ -1,5 +1,5 @@
 
-def fibonacci(n):
+def get_fibonacci_sequence_from_function(n):
     result = []
     a, b = 0, 1
     while a < n:
